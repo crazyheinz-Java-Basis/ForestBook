@@ -1,0 +1,35 @@
+
+Ssquid:S1611”"/Remove the parentheses around the "n" parameter(ì¯‹Øÿÿÿÿÿ8£°Å´-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ğ€«´-
+Lsquid:S1125y")Remove the literal "false" boolean value.(°úèâüÿÿÿÿ8Â¶Í‰´-
+Lsquid:S1125S")Remove the literal "false" boolean value.(°úèâüÿÿÿÿ8†é²Š´-
+\
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ì¯‹Øÿÿÿÿÿ8£°Å´-
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(Ğˆ†—ûÿÿÿÿ8ğâ´-
+W
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(€Å¯É8î«´-
+\
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(ì¯‹Øÿÿÿÿÿ8æ ¿‹´-
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ë”àê8£°Å´-
+W
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ˆÎ²ˆ8ò¸’‹´-
+Psquid:S1612‰",Replace this lambda with a method reference.(‡”ÈÒıÿÿÿÿ8ÚÖØ‹´-
+\squid:S1155G">Use isEmpty() to check whether the collection is empty or not.(°ËÁõ8†é²Š´-
+Psquid:S1612”",Replace this lambda with a method reference.(ì¯‹Øÿÿÿÿÿ8£°Å´-
+Psquid:S1612‡",Replace this lambda with a method reference.(ì¯‹Øÿÿÿÿÿ8æ ¿‹´-
+\
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(‰Ğ‘ıÿÿÿÿ8ÚÖØ‹´-
+\
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(™€œøøÿÿÿÿ8£°Å´-
+asquid:S1155n">Use isEmpty() to check whether the collection is empty or not.(·¡€£ıÿÿÿÿ8ªä¤‡´-
+Ssquid:S1611‡"/Remove the parentheses around the "n" parameter(ì¯‹Øÿÿÿÿÿ8æ ¿‹´-
+Nsquid:S1611‰"/Remove the parentheses around the "n" parameter(Ø©º«8ÚÖØ‹´-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òæéŞşÿÿÿÿ8üÌÌ´-
+\
+squid:S106„"9Replace this use of System.out or System.err by a logger.(µáÎüÿÿÿÿ8°ñ‘‹´-
+\
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8â„Ù‹´-
+asquid:UselessImportCheck
+"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ºàˆ´-

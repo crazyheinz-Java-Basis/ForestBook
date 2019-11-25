@@ -1,0 +1,22 @@
+
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Ëº™úÿÿÿÿ8Ó¬¸´-
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(†ùĞÚúÿÿÿÿ8¾á¶´-
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(òäÛˆ8‰Ìµ´-
+Osquid:S1612P",Replace this lambda with a method reference.(†ùĞÚúÿÿÿÿ8¾á¶´-
+Rsquid:S1611R"/Remove the parentheses around the "n" parameter(Ëº™úÿÿÿÿ8Ó¬¸´-
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ÌÈÓåşÿÿÿÿ8ö´¶´-
+Jsquid:S1612N",Replace this lambda with a method reference.(Ùş˜­8æ³Ñ´-
+Hsquid:S3457O"%String contains no format specifiers.(ÌÈÓåşÿÿÿÿ8ö´¶´-
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(Ùş˜­8æ³Ñ´-
+Msquid:S1611N"/Remove the parentheses around the "n" parameter(Ùş˜­8æ³Ñ´-
+Rsquid:S1611P"/Remove the parentheses around the "n" parameter(†ùĞÚúÿÿÿÿ8¾á¶´-
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ŞËíâ8Ô¥·´-
+asquid:UselessImportCheck	"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8¸¸½†´-
+Osquid:S1612R",Replace this lambda with a method reference.(Ëº™úÿÿÿÿ8Ó¬¸´-
+Zsquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¸¸½†´-
